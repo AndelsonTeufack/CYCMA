@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945942373073",
+    "project_id": "cycma-d9f10",
+    "storage_bucket": "cycma-d9f10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945942373073:android:a4aa0e4d326124330e5bf0",
+        "android_client_info": {
+          "package_name": "com.example.cycma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945942373073-f6lp4tek1hk0haplt9v8pk0tcs3ihiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZvARZ0xLgjTJ7lCm8J3UBNYng_CjoQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945942373073-f6lp4tek1hk0haplt9v8pk0tcs3ihiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
